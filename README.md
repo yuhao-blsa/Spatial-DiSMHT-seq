@@ -1,2 +1,2 @@
-# STREAM-seq
-R toolkit for spatial multiomics
+# Spatial-DiSMHT-seq
+Toolkit for spatial multiomics
